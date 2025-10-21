@@ -1,4 +1,7 @@
-📊 HR Analytics Dashboard – Tableau Project
+# 📊 HR Analytics Dashboard – Tableau Project
+
+![Uploading Screenshot 2025-10-21 at 09.03.02.png…]()
+
 🧩 Project Overview
 
 The HR Analytics Dashboard is designed to provide a comprehensive overview of an organization’s workforce. It enables HR teams and management to analyze employee demographics, hiring trends, performance, and salary distribution for informed decision-making.
