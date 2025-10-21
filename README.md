@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard – Tableau Project
 
-![Uploading Screenshot 2025-10-21 at 09.03.02.png…]()
+![Screenshot 2025-10-21 at 09 03 02](https://github.com/user-attachments/assets/caa39215-1dfb-4ec5-80f4-907745042c65)
 
 🧩 Project Overview
 
